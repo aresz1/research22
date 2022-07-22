@@ -1,4 +1,5 @@
-"""sequences module. Manipulate sequences connected to nested recurrences.
+"""Made by Dr. Fox
+sequences module. Manipulate sequences connected to nested recurrences.
 
 Members:
 -Sequence: A class for representing sequences
